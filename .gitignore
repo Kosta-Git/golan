@@ -1,0 +1,6 @@
+.idea
+.code
+.vscode
+*.exe
+*.dll
+*.manifest
